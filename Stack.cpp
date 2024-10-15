@@ -111,7 +111,13 @@ bool isBalanced(string exp)
 		i++;
 		len--;
 	}
+	if(k.isEmpty()
+	{
 	return true;
+	}
+	else 
+	{
+	return false;
  }
 int main()
 {
